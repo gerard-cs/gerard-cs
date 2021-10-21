@@ -1,4 +1,4 @@
-#### Hi there 👋 I'm Gerard
+## Hi there 👋 I'm Gerard
 
 I'm a backend engineer who loves sports (I'm an expert). 
 
@@ -9,7 +9,7 @@ I have worked with messages queues using RabbitMQ and Celery.
 
 - 🌱 I’m currently learning about CQRS pattern.
 
-#### Technologies I use:
+## Technologies I use:
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
